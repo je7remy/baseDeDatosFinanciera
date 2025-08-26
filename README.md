@@ -71,5 +71,3 @@ La base de datos gestiona información sobre:
 Desarrollado por **Jeremy José de la Cruz Pérez (@je7remy)**
 
 ---
-
-¿Quieres que lo prepare en **Markdown listo para copiar/pegar** en tu GitHub con emojis y formato atractivo, o prefieres un estilo **académico-formal** (tipo documentación técnica sin adornos)?
